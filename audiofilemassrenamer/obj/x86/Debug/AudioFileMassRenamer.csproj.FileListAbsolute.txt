@@ -1,0 +1,5 @@
+C:\Users\MichaelS\Dropbox\Code\AudioFileMassRenamer\AudioFileMassRenamer\bin\Debug\AudioFileMassRenamer.exe
+C:\Users\MichaelS\Dropbox\Code\AudioFileMassRenamer\AudioFileMassRenamer\bin\Debug\AudioFileMassRenamer.pdb
+C:\Users\MichaelS\Dropbox\Code\AudioFileMassRenamer\AudioFileMassRenamer\obj\x86\Debug\AudioFileMassRenamer.exe
+C:\Users\MichaelS\Dropbox\Code\AudioFileMassRenamer\AudioFileMassRenamer\obj\x86\Debug\AudioFileMassRenamer.pdb
+C:\Users\MichaelS\Dropbox\Code\AudioFileMassRenamer\AudioFileMassRenamer\obj\x86\Debug\AudioFileMassRenamer.csprojResolveAssemblyReference.cache
